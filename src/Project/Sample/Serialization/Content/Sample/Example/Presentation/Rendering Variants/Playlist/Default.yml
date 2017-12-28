@@ -1,0 +1,19 @@
+﻿---
+ID: "f15704d5-1d30-4bbe-9a5a-3152345cec3a"
+Parent: "96d3c2ad-b495-4691-a607-2d61f2f393ee"
+Template: "fb3e3034-33f8-4ce8-be98-dd05010f4c22"
+Path: /sitecore/content/Sample/Example/Presentation/Rendering Variants/Playlist/Default
+DB: master
+BranchID: "fc0838e0-d628-4f4b-b97b-bd518a3ff4a9"
+SharedFields:
+- ID: "e1d5adba-8348-4127-9bb6-455936653839"
+  Hint: CssClass
+  Value: "default-playlist"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171227T074555Z

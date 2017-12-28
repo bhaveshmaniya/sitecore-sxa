@@ -1,0 +1,14 @@
+﻿---
+ID: "36085c92-4621-4cad-9f10-cd394ddb6654"
+Parent: "c1e10c7c-7504-45d4-ad65-17b26a69a895"
+Template: "25a6b824-672f-4c15-9b98-0b231c80f81c"
+Path: /sitecore/content/Sample/Example/Data/Tags/Blog Categories
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171227T141226Z

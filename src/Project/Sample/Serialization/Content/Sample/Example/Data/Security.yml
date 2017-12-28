@@ -1,0 +1,14 @@
+﻿---
+ID: "7b383022-0167-4686-853f-b9b1ee9af689"
+Parent: "179085f5-bdae-4208-940c-f889fa6603f2"
+Template: "33077d51-ebad-4d1c-b4a8-3b79f51dba13"
+Path: /sitecore/content/Sample/Example/Data/Security
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171227T074623Z

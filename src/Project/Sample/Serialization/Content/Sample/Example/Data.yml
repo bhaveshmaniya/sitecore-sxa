@@ -1,0 +1,15 @@
+﻿---
+ID: "179085f5-bdae-4208-940c-f889fa6603f2"
+Parent: "47a5ff6f-8bc0-4c12-9672-8ccea125e6a6"
+Template: "5ecd34f4-b36f-4533-9643-df41cd8b5036"
+Path: /sitecore/content/Sample/Example/Data
+DB: master
+BranchID: "b90549b5-c997-4d6b-b102-c9ab82528974"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171227T074446Z

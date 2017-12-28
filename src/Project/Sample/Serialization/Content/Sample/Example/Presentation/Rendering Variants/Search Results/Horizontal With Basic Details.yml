@@ -1,0 +1,18 @@
+﻿---
+ID: "d5620412-69ce-4421-b004-12344281d0a3"
+Parent: "b38ae765-5545-4bd6-9bf2-f3995259a5f5"
+Template: "fb3e3034-33f8-4ce8-be98-dd05010f4c22"
+Path: /sitecore/content/Sample/Example/Presentation/Rendering Variants/Search Results/Horizontal With Basic Details
+DB: master
+SharedFields:
+- ID: "e1d5adba-8348-4127-9bb6-455936653839"
+  Hint: CssClass
+  Value: horizontal
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171228T121242Z

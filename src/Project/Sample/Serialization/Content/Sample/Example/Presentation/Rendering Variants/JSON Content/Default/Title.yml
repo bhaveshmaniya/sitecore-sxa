@@ -1,0 +1,26 @@
+﻿---
+ID: "a71bcf36-7752-40a4-9321-66407fc3a39f"
+Parent: "6f1f1595-c546-42ec-840e-5bce7c0a8334"
+Template: "f69d787d-0ecf-43d3-b9cb-35b303d5233a"
+Path: /sitecore/content/Sample/Example/Presentation/Rendering Variants/JSON Content/Default/Title
+DB: master
+BranchID: "1c28cde5-00f2-4392-833f-674b06bc9c67"
+SharedFields:
+- ID: "3183d84b-d0b9-4e0c-8813-a82465ccbdc8"
+  Hint: Field Name
+  Value: Title
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171227T074544Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

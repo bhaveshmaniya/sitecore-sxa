@@ -1,0 +1,22 @@
+﻿---
+ID: "84135ea3-205a-4955-af55-28adaf961f16"
+Parent: "47a5ff6f-8bc0-4c12-9672-8ccea125e6a6"
+Template: "72fa2f99-f1d6-4eed-9de4-e5527d107171"
+Path: /sitecore/content/Sample/Example/Home
+DB: master
+BranchID: "b90549b5-c997-4d6b-b102-c9ab82528974"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171227T074446Z
+    - ID: "3e30e935-6e59-4e7f-a2ac-8beeae9a65ce"
+      Hint: Title
+      Value: Example
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

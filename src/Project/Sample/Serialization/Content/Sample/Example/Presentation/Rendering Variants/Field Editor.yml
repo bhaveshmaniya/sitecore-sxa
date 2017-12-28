@@ -1,0 +1,18 @@
+﻿---
+ID: "9a27d26f-28ff-4259-a0ac-352c7919a66f"
+Parent: "f27b9318-284f-4a2f-b5e3-35b2ac3400b0"
+Template: "e1a3b30c-77bc-4f6c-a008-d01b3371235d"
+Path: /sitecore/content/Sample/Example/Presentation/Rendering Variants/Field Editor
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/text_field.png
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171227T074605Z

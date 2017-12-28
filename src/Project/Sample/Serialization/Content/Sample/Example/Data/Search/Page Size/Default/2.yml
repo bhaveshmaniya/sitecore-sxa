@@ -1,0 +1,21 @@
+﻿---
+ID: "29dc8199-c9b1-4fb1-9881-9089f2d90011"
+Parent: "4652c6b7-bf49-4823-b4d8-3663a6b304d5"
+Template: "b682562e-0af6-4b3e-9e3b-45273bbe152d"
+Path: /sitecore/content/Sample/Example/Data/Search/Page Size/Default/2
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 25
+- ID: "befc61bf-8cfd-4478-9f5c-8422e6e2f005"
+  Hint: Value
+  Value: 2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171228T122618Z

@@ -1,0 +1,18 @@
+﻿---
+ID: "21b41f38-5456-4ab7-8ec2-aa6ef8d0aa3c"
+Parent: "179085f5-bdae-4208-940c-f889fa6603f2"
+Template: "7f9d1a45-f31e-4714-ac66-1e300ae1b792"
+Path: /sitecore/content/Sample/Example/Data/Forms
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171227T074538Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

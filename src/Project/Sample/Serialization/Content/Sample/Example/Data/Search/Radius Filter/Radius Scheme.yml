@@ -1,0 +1,19 @@
+﻿---
+ID: "05417ba4-3cbc-4cef-bd30-8dabaa59998d"
+Parent: "dbbf077e-cfea-485c-951a-22530e1773ab"
+Template: "5da3844c-1111-422d-a5ad-faef2b22ef2e"
+Path: /sitecore/content/Sample/Example/Data/Search/Radius Filter/Radius Scheme
+DB: master
+BranchID: "957565a0-bf0d-4f8b-bf2c-4a8f40ec9080"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171227T074641Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

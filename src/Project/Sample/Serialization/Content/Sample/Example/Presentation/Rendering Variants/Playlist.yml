@@ -1,0 +1,19 @@
+﻿---
+ID: "96d3c2ad-b495-4691-a607-2d61f2f393ee"
+Parent: "f27b9318-284f-4a2f-b5e3-35b2ac3400b0"
+Template: "e1a3b30c-77bc-4f6c-a008-d01b3371235d"
+Path: /sitecore/content/Sample/Example/Presentation/Rendering Variants/Playlist
+DB: master
+BranchID: "fc0838e0-d628-4f4b-b97b-bd518a3ff4a9"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/movies.png
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171227T074555Z

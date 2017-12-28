@@ -1,0 +1,14 @@
+﻿---
+ID: "e914023b-83a6-4da5-9b1d-a7534c03201d"
+Parent: "a57b4cf7-95ef-4208-aa0f-b7eb70c1894c"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: "/sitecore/media library/Themes/Sample/Example/Example/sass/variants/link-list"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170614T063826Z

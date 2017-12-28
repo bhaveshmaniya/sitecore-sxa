@@ -1,0 +1,15 @@
+﻿---
+ID: "dd291772-0e06-4f71-9ea4-c7238565aeb4"
+Parent: "71552cc8-b2c1-41ee-8ba6-171a9958cabb"
+Template: "4980b878-c2a9-4568-999f-83a5ace5f7bb"
+Path: /sitecore/content/Sample/Example/Presentation/Partial Designs
+DB: master
+BranchID: "b90549b5-c997-4d6b-b102-c9ab82528974"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171227T074446Z

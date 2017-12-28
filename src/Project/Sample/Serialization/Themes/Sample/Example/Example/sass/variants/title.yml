@@ -1,0 +1,14 @@
+﻿---
+ID: "0e63d622-14bd-446c-b696-1b9febb9aa4f"
+Parent: "a57b4cf7-95ef-4208-aa0f-b7eb70c1894c"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Themes/Sample/Example/Example/sass/variants/title
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170614T063839Z

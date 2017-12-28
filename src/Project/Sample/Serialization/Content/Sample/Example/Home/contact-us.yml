@@ -1,0 +1,31 @@
+﻿---
+ID: "b6cd4eab-56a1-4ef9-a5d0-00a777f0812f"
+Parent: "84135ea3-205a-4955-af55-28adaf961f16"
+Template: "ac0a79b9-40be-41e3-b6de-08e7a82734b6"
+Path: "/sitecore/content/Sample/Example/Home/contact-us"
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Contact Us
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0ecfd2b9-0224-4f6d-8ab7-e6699600bb02"
+      Hint: Content
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171227T110201Z
+    - ID: "3e30e935-6e59-4e7f-a2ac-8beeae9a65ce"
+      Hint: Title
+      Value: Contact Us
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Contact Us
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

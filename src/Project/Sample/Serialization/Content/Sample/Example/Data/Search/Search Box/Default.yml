@@ -1,0 +1,18 @@
+﻿---
+ID: "9d5f9345-bbf9-4c6a-b2e6-e5855b6f533b"
+Parent: "11f53e76-d186-415a-898a-57709158b60c"
+Template: "1c04fd61-1d87-4590-acfe-9cc186865ab3"
+Path: /sitecore/content/Sample/Example/Data/Search/Search Box/Default
+DB: master
+BranchID: "957565a0-bf0d-4f8b-bf2c-4a8f40ec9080"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "143bc719-8c3f-42eb-9b1a-2db64c7cfeb7"
+      Hint: SearchTextBoxLabel
+      Value: Search textbox label
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171227T074642Z

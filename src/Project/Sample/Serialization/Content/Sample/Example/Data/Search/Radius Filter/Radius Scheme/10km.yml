@@ -1,0 +1,26 @@
+﻿---
+ID: "30467950-68ea-4c32-9122-01609ccf70e1"
+Parent: "05417ba4-3cbc-4cef-bd30-8dabaa59998d"
+Template: "ea45c3ad-8e63-4e2a-bcc0-9e4c06f2aa12"
+Path: /sitecore/content/Sample/Example/Data/Search/Radius Filter/Radius Scheme/10km
+DB: master
+BranchID: "957565a0-bf0d-4f8b-bf2c-4a8f40ec9080"
+SharedFields:
+- ID: "4f892959-fde6-4020-8569-2cf934ba412c"
+  Hint: Value
+  Value: 10
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171227T074641Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "6f0451f9-bf0e-4420-ad61-82bb14a257f9"
+      Hint: Title
+      Value: 10km

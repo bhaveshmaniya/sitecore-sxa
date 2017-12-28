@@ -1,0 +1,19 @@
+﻿---
+ID: "abc9a220-e78a-4ec6-86df-3d1c317ed52c"
+Parent: "f27b9318-284f-4a2f-b5e3-35b2ac3400b0"
+Template: "e1a3b30c-77bc-4f6c-a008-d01b3371235d"
+Path: /sitecore/content/Sample/Example/Presentation/Rendering Variants/Link
+DB: master
+BranchID: "4d660f84-930a-437f-9457-e9c4cd8f674c"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/link.png
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171227T074601Z

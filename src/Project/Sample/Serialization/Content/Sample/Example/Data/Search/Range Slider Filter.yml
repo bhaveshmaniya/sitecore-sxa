@@ -1,0 +1,15 @@
+﻿---
+ID: "06b2936e-6712-470e-8b9f-016161fb7c78"
+Parent: "f3bf65c3-5358-4c70-a5e5-aea951b4e30b"
+Template: "7d431148-b2a1-452d-900f-7e36d864df02"
+Path: /sitecore/content/Sample/Example/Data/Search/Range Slider Filter
+DB: master
+BranchID: "957565a0-bf0d-4f8b-bf2c-4a8f40ec9080"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171227T074641Z

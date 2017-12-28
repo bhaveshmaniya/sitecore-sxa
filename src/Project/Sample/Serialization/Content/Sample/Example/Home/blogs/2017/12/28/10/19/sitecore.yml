@@ -1,0 +1,42 @@
+﻿---
+ID: "aa587abd-b097-4732-aaf2-d99c7a285485"
+Parent: "0ec5fb5c-88c0-4f35-8825-88fd2bfc4148"
+Template: "47d37868-3acf-4f10-a3ab-d9b1055ea33e"
+Path: /sitecore/content/Sample/Example/Home/blogs/2017/12/28/10/19/sitecore
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Sitecore
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171228T101910Z
+    - ID: "3e30e935-6e59-4e7f-a2ac-8beeae9a65ce"
+      Hint: Title
+      Value: Sitecore
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Sitecore
+    - ID: "519e90b4-92c8-4908-b1e2-8bd1e6dd1d07"
+      Hint: BlogPublishedDate
+      Value: 20170831T183000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "698eb960-de52-40db-8961-8289629fae60"
+      Hint: BlogImage
+      Value: |
+        <image mediaid="{BDD24AC8-2AEB-4D0A-8E41-DA32F08DC5EC}" />
+    - ID: "84e7ac23-162f-4933-ab8e-0d63475df1c2"
+      Hint: BlogAuther
+      Value: Michael Seifert
+    - ID: "c2884418-3380-49ef-89dd-163d07ab3e1b"
+      Hint: BlogSubTitle
+      Value: |
+        <strong style="color: #222222; background-color: #ffffff;">Sitecore</strong><span style="background-color: #ffffff; color: #222222;">&nbsp;is a&nbsp;</span><a href="https://en.wikipedia.org/wiki/Customer_experience" title="Customer experience" style="color: #0b0080; background: none #ffffff;">customer experience</a><span style="background-color: #ffffff; color: #222222;">&nbsp;management company that provides&nbsp;</span><a href="https://en.wikipedia.org/wiki/Web_content_management_system" title="Web content management system" style="color: #0b0080; background: none #ffffff;">web content management</a><span style="background-color: #ffffff; color: #222222;">&nbsp;and&nbsp;</span><a href="https://en.wikipedia.org/wiki/Multichannel_marketing" title="Multichannel marketing" style="color: #0b0080; background: none #ffffff;">multichannel marketing</a><span style="background-color: #ffffff; color: #222222;">&nbsp;automation software. The company was founded in 2001 in Denmark.</span>

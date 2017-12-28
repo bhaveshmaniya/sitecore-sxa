@@ -1,0 +1,14 @@
+﻿---
+ID: "e4e7afa2-f622-47b7-863b-e37cf629ccdd"
+Parent: "179085f5-bdae-4208-940c-f889fa6603f2"
+Template: "948bf196-d6eb-4247-be9c-f5eb5e1160d7"
+Path: /sitecore/content/Sample/Example/Data/Playlists
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171227T074550Z

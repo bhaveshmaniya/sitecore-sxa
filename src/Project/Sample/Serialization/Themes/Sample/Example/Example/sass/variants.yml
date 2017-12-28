@@ -1,0 +1,18 @@
+﻿---
+ID: "a57b4cf7-95ef-4208-aa0f-b7eb70c1894c"
+Parent: "a9347db6-db1a-40ff-9917-4777863f707a"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Themes/Sample/Example/Example/sass/variants
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 175
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170613T150626Z

@@ -1,0 +1,31 @@
+﻿---
+ID: "d09d88c2-4447-4b9d-b3eb-339262a4531d"
+Parent: "c5a1d44e-ed67-425b-9024-241961d0ca59"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: "/sitecore/media library/Themes/Sample/Example/Example/scripts/component-facebook"
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/2E536EA4AA8947C3AC4F244AA78680AE.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "42284401-44f0-4014-b262-0d002cd36290"
+  Value: WEEuY29tcG9uZW50LmZhY2Vib29rID0gKGZ1bmN0aW9uKCQsIGRvY3VtZW50KSB7DQoNCiAgICB2YXIgYXBpID0ge307DQoNCiAgICBhcGkuaW5pdCA9IGZ1bmN0aW9uKCkgew0KICAgICAgICB2YXIgZmFjZWJvb2sgPSAkKCIuZmItY29tbWVudHM6bm90KC5pbml0aWFsaXplZCkiKTsNCg0KICAgICAgICBmYWNlYm9vay5lYWNoKGZ1bmN0aW9uKCkgew0KDQogICAgICAgICAgICAoZnVuY3Rpb24oZCwgcywgaWQpIHsNCiAgICAgICAgICAgICAgICB2YXIganMsIGJvZHkgPSBkLmdldEVsZW1lbnRzQnlUYWdOYW1lKHMpWzBdOw0KICAgICAgICAgICAgICAgIGlmIChkLmdldEVsZW1lbnRCeUlkKGlkKSkgew0KICAgICAgICAgICAgICAgICAgICByZXR1cm4NCiAgICAgICAgICAgICAgICB9DQogICAgICAgICAgICAgICAganMgPSBkLmNyZWF0ZUVsZW1lbnQocyk7DQogICAgICAgICAgICAgICAganMuaWQgPSBpZDsNCiAgICAgICAgICAgICAgICBqcy5zcmMgPSAiLy9jb25uZWN0LmZhY2Vib29rLm5ldC9lbl9VUy9zZGsuanMjeGZibWw9MSZ2ZXJzaW9uPXYyLjciOw0KICAgICAgICAgICAgICAgIGJvZHkuaW5zZXJ0QmVmb3JlKGpzLCBib2R5LmZpcnN0Q2hpbGQpOw0KICAgICAgICAgICAgfShkb2N1bWVudCwgJ2JvZHknLCAnZmFjZWJvb2stanNzZGsnKSk7DQoNCiAgICAgICAgICAgICQodGhpcykuYWRkQ2xhc3MoImluaXRpYWxpemVkIik7DQogICAgICAgIH0pOw0KICAgIH07DQoNCiAgICByZXR1cm4gYXBpOw0KfShqUXVlcnksIGRvY3VtZW50KSk7DQoNClhBLnJlZ2lzdGVyKCJmYWNlYm9vayIsIFhBLmNvbXBvbmVudC5mYWNlYm9vayk7
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 819
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: "application/x-javascript"
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: js
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160811T135342Z

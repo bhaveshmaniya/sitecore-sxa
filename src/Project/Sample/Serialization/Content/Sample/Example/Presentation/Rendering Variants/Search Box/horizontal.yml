@@ -1,0 +1,19 @@
+﻿---
+ID: "9e0341c5-d810-4055-8b05-1dfbf9c51746"
+Parent: "3916f002-4bde-4429-8163-acd653c9b62a"
+Template: "fb3e3034-33f8-4ce8-be98-dd05010f4c22"
+Path: /sitecore/content/Sample/Example/Presentation/Rendering Variants/Search Box/horizontal
+DB: master
+BranchID: "0d360bbd-4fae-4863-88b9-ae5be82be6f0"
+SharedFields:
+- ID: "e1d5adba-8348-4127-9bb6-455936653839"
+  Hint: CssClass
+  Value: horizontal
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171227T074643Z

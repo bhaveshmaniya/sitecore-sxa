@@ -1,0 +1,23 @@
+﻿---
+ID: "51e8c4bf-e2d9-48bc-97ce-a664fc106550"
+Parent: "5afe40d5-9626-4262-83f0-c4925dcfa155"
+Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
+Path: /sitecore/content/Sample/Example/Presentation/Rendering Variants/Search Results/vertical/Title
+DB: master
+BranchID: "0d360bbd-4fae-4863-88b9-ae5be82be6f0"
+SharedFields:
+- ID: "4753764c-c05a-4623-841b-97f85135241c"
+  Hint: FieldName
+  Value: Title
+- ID: "dcb05e5e-7151-4226-a3b0-108c5e2f05b5"
+  Hint: IsLink
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171227T074645Z

@@ -1,0 +1,18 @@
+﻿---
+ID: "2d3a6500-7ee9-40a0-befa-5848137abdc6"
+Parent: "6a3a9f2c-3caa-4009-b1f1-3dd2b6f3d6c0"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Themes/Sample/Example/Example/sass/base/search
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: applications/16x16/folder.png
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170614T063705Z

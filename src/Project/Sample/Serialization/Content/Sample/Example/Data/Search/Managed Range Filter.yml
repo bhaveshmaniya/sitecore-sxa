@@ -1,0 +1,15 @@
+﻿---
+ID: "1380a6bc-4e9f-4ce7-9183-25137362d61f"
+Parent: "f3bf65c3-5358-4c70-a5e5-aea951b4e30b"
+Template: "670a7e82-78a6-4b25-a710-1e2e8f72515a"
+Path: /sitecore/content/Sample/Example/Data/Search/Managed Range Filter
+DB: master
+BranchID: "957565a0-bf0d-4f8b-bf2c-4a8f40ec9080"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171227T074641Z

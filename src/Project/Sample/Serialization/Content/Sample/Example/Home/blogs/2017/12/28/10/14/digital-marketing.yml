@@ -1,0 +1,51 @@
+﻿---
+ID: "bba4d929-0ffb-48ea-89b9-462e440ff755"
+Parent: "8dca446b-902f-46fb-81e1-a103c2dff808"
+Template: "47d37868-3acf-4f10-a3ab-d9b1055ea33e"
+Path: "/sitecore/content/Sample/Example/Home/blogs/2017/12/28/10/14/digital-marketing"
+DB: master
+SharedFields:
+- ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
+  Hint: SxaTags
+  Value: "{9E244596-AA88-4D73-BF0C-02DFEFE77114}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Digital Marketing
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0ecfd2b9-0224-4f6d-8ab7-e6699600bb02"
+      Hint: Content
+      Value: |
+        <p style="color: #222222; background-color: #ffffff; margin: 0.5em 0px;">Digital marketing's development since the 1990s and 2000s has changed the way brands and businesses use technology for marketing.<sup id="cite_ref-ebscohost_2-0" class="reference"><a href="https://en.wikipedia.org/wiki/Digital_marketing#cite_note-ebscohost-2" style="color: #0b0080; background: none;">[2]</a></sup>&nbsp;As digital platforms are increasingly incorporated into marketing plans and everyday life,<sup id="cite_ref-3" class="reference"><a href="https://en.wikipedia.org/wiki/Digital_marketing#cite_note-3" style="color: #0b0080; background: none;">[3]</a></sup>&nbsp;and as people use digital devices instead of visiting physical shops,<sup id="cite_ref-4" class="reference"><a href="https://en.wikipedia.org/wiki/Digital_marketing#cite_note-4" style="color: #0b0080; background: none;">[4]</a></sup><sup id="cite_ref-:0_5-0" class="reference"><a href="https://en.wikipedia.org/wiki/Digital_marketing#cite_note-:0-5" style="color: #0b0080; background: none;">[5]</a></sup>&nbsp;digital marketing campaigns are becoming more prevalent and efficient.</p>
+        <p style="color: #222222; background-color: #ffffff; margin: 0.5em 0px;">Digital marketing methods such as&nbsp;<a href="https://en.wikipedia.org/wiki/Search_engine_optimization" title="Search engine optimization" style="color: #0b0080; background: none;">search engine optimization</a>&nbsp;(SEO),&nbsp;<a href="https://en.wikipedia.org/wiki/Search_engine_marketing" title="Search engine marketing" style="color: #0b0080; background: none;">search engine marketing</a>&nbsp;(SEM), content marketing,&nbsp;<a href="https://en.wikipedia.org/wiki/Influencer_marketing" title="Influencer marketing" style="color: #0b0080; background: none;">influencer marketing</a>, content automation, campaign marketing,&nbsp;<a href="https://en.wikipedia.org/wiki/Data" title="Data" style="color: #0b0080; background: none;">data</a>-driven marketing<sup id="cite_ref-6" class="reference"><a href="https://en.wikipedia.org/wiki/Digital_marketing#cite_note-6" style="color: #0b0080; background: none;">[6]</a></sup>,&nbsp;<a href="https://en.wikipedia.org/wiki/E-commerce" title="E-commerce" style="color: #0b0080; background: none;">e-commerce</a>&nbsp;marketing,&nbsp;<a href="https://en.wikipedia.org/wiki/Social_media_marketing" title="Social media marketing" style="color: #0b0080; background: none;">social media marketing</a>,&nbsp;<a href="https://en.wikipedia.org/wiki/Social_media_optimization" title="Social media optimization" style="color: #0b0080; background: none;">social media optimization</a>,&nbsp;<a href="https://en.wikipedia.org/wiki/Email_marketing" title="Email marketing" style="color: #0b0080; background: none;">e-mail direct marketing</a>, display advertising, e&ndash;books, and optical disks and games are becoming more common in our advancing technology. In fact, digital marketing now extends to non-Internet channels that provide digital media, such as mobile phones (<a href="https://en.wikipedia.org/wiki/SMS" title="SMS" style="color: #0b0080; background: none;">SMS</a>&nbsp;and&nbsp;<a href="https://en.wikipedia.org/wiki/Multimedia_Messaging_Service" title="Multimedia Messaging Service" style="color: #0b0080; background: none;">MMS</a>), callback, and on-hold mobile ring tones.<sup id="cite_ref-7" class="reference"><a href="https://en.wikipedia.org/wiki/Digital_marketing#cite_note-7" style="color: #0b0080; background: none;">[7]</a></sup></p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171228T101446Z
+    - ID: "3e30e935-6e59-4e7f-a2ac-8beeae9a65ce"
+      Hint: Title
+      Value: Digital Marketing
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Digital Marketing
+    - ID: "519e90b4-92c8-4908-b1e2-8bd1e6dd1d07"
+      Hint: BlogPublishedDate
+      Value: 20171031T183000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "698eb960-de52-40db-8961-8289629fae60"
+      Hint: BlogImage
+      Value: |
+        <image mediaid="{E95E62AB-153F-40C1-B43E-EAAB2F43A91D}" />
+    - ID: "84e7ac23-162f-4933-ab8e-0d63475df1c2"
+      Hint: BlogAuther
+      Value: XYZ
+    - ID: "c2884418-3380-49ef-89dd-163d07ab3e1b"
+      Hint: BlogSubTitle
+      Value: |
+        <strong style="color: #222222; background-color: #ffffff;">Digital marketing</strong><span style="background-color: #ffffff; color: #222222;">&nbsp;is the&nbsp;</span><a href="https://en.wikipedia.org/wiki/Marketing" title="Marketing" style="color: #0b0080; background: none #ffffff;">marketing</a><span style="background-color: #ffffff; color: #222222;">&nbsp;of products or services using digital technologies, mainly on the&nbsp;</span><a href="https://en.wikipedia.org/wiki/Internet" title="Internet" style="color: #0b0080; background: none #ffffff;">Internet</a><span style="background-color: #ffffff; color: #222222;">, but also including mobile phones,&nbsp;</span><a href="https://en.wikipedia.org/wiki/Display_advertising" title="Display advertising" style="color: #0b0080; background: none #ffffff;">display advertising</a><span style="background-color: #ffffff; color: #222222;">, and any other digital medium.</span><sup id="cite_ref-1" class="reference" style="color: #222222; background-color: #ffffff;"><a href="https://en.wikipedia.org/wiki/Digital_marketing#cite_note-1" style="color: #0b0080; background: none;">[1]</a></sup>

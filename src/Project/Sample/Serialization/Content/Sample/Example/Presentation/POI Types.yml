@@ -1,0 +1,15 @@
+﻿---
+ID: "a811bb19-5229-4828-aab5-023064856bcd"
+Parent: "71552cc8-b2c1-41ee-8ba6-171a9958cabb"
+Template: "3a1dde20-0a86-492a-81ee-5f56c827fa94"
+Path: /sitecore/content/Sample/Example/Presentation/POI Types
+DB: master
+BranchID: "f4371cd2-fd6d-4c4e-910d-8e1095c67b25"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171227T074540Z

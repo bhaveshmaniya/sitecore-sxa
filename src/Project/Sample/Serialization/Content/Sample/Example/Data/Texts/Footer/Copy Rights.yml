@@ -1,0 +1,23 @@
+﻿---
+ID: "3ff0b9c2-7da7-42f9-894d-308002ed26c6"
+Parent: "74c4e2fc-b82b-4381-9594-8f6fed794496"
+Template: "b8f5894c-b493-4016-bf78-4090b0a2fd16"
+Path: /sitecore/content/Sample/Example/Data/Texts/Footer/Copy Rights
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171227T133244Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "b3635965-6786-457c-9dee-28de73c0a331"
+      Hint: Text
+      Value: |
+        <p style="text-align: center;">Copyright &copy; by Arrow Digital. All Rights Reserved.</p>
+        <p style="text-align: center;">319 N Clematis Street Suite 500, West Palm Beach, FL 33401,&nbsp;(561) 714-7926 info@arrowdigital.com</p>

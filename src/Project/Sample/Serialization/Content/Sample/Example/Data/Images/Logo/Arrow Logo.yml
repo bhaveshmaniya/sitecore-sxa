@@ -1,0 +1,26 @@
+﻿---
+ID: "db71c291-832d-4694-9445-636f9501b019"
+Parent: "7a9d0781-b27c-4656-8f2e-6a47d56c419c"
+Template: "bb8a85ab-1f6d-4518-8772-1c9f4f8dac18"
+Path: /sitecore/content/Sample/Example/Data/Images/Logo/Arrow Logo
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171227T111347Z
+    - ID: "54cab1ba-53d3-4ce4-ab7e-f8c17596aa47"
+      Hint: TargetUrl
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{84135EA3-205A-4955-AF55-28ADAF961F16}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "ebe4fdef-16d5-4d19-833c-24a241628a3a"
+      Hint: Image
+      Value: |
+        <image mediaid="{A8F24E86-DBF5-4C76-BBE6-0B7531F86EF8}" ></image>

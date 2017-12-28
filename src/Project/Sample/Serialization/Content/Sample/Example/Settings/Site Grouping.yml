@@ -1,0 +1,15 @@
+﻿---
+ID: "0b5286e1-7154-43d0-8098-f1ec1e5fbb0f"
+Parent: "7c4698c2-7904-47ee-a729-db00ebf0fa9c"
+Template: "11f57d7b-cbb2-4647-b98c-71457564ba4f"
+Path: /sitecore/content/Sample/Example/Settings/Site Grouping
+DB: master
+BranchID: "b90549b5-c997-4d6b-b102-c9ab82528974"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171227T074446Z

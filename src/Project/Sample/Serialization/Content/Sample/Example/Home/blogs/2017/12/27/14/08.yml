@@ -1,0 +1,14 @@
+﻿---
+ID: "2395e234-60a6-4338-b388-f92d6c973e89"
+Parent: "3173b316-bde3-4aab-8282-a91417ec9d0c"
+Template: "adb6ca4f-03ef-4f47-b9ac-9ce2ba53ff97"
+Path: /sitecore/content/Sample/Example/Home/blogs/2017/12/27/14/08
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171227T140808Z

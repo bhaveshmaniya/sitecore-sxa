@@ -1,0 +1,22 @@
+﻿---
+ID: "7958cc1a-718d-445e-8af9-b48e6832a0e3"
+Parent: "38cb8532-a257-4164-9f74-a927a6d384a5"
+Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
+Path: /sitecore/content/Sample/Example/Settings/Browser Title/Title
+DB: master
+BranchID: "cdd7e389-d931-4f1e-96ca-acb4deb8a64a"
+SharedFields:
+- ID: "4753764c-c05a-4623-841b-97f85135241c"
+  Hint: FieldName
+  Value: Title
+- ID: "db805bdc-8eec-4238-b174-2427b6f1f077"
+  Hint: Tag
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171227T074624Z

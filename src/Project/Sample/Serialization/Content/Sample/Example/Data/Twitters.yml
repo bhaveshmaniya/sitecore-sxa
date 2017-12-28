@@ -1,0 +1,14 @@
+﻿---
+ID: "899f9c28-49d7-4274-beb4-c933d61dbd03"
+Parent: "179085f5-bdae-4208-940c-f889fa6603f2"
+Template: "041c1f9f-99a4-4ee6-8308-985499f91032"
+Path: /sitecore/content/Sample/Example/Data/Twitters
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171227T074631Z

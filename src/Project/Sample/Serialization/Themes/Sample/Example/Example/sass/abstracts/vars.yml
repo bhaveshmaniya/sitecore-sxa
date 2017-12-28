@@ -1,0 +1,14 @@
+﻿---
+ID: "ee683493-25db-4177-98b8-7e8b8ed7de78"
+Parent: "10bc75a2-b101-4165-b228-aa822774f49e"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Themes/Sample/Example/Example/sass/abstracts/vars
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170613T150639Z

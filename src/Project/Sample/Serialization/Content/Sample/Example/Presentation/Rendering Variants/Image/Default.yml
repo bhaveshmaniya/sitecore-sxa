@@ -1,0 +1,22 @@
+﻿---
+ID: "289a3f93-e63f-4b63-a0be-e264b6371eb2"
+Parent: "621543f0-7df8-4b73-8af9-c91c875cd25d"
+Template: "fb3e3034-33f8-4ce8-be98-dd05010f4c22"
+Path: /sitecore/content/Sample/Example/Presentation/Rendering Variants/Image/Default
+DB: master
+BranchID: "cc5f46b4-6376-48b6-ad03-adc13508527f"
+SharedFields:
+- ID: "90294353-706a-431c-b855-cd245824d9fa"
+  Hint: LinkField
+  Value: File
+- ID: "e1d5adba-8348-4127-9bb6-455936653839"
+  Hint: CssClass
+  Value: "file-type-icon-media-link"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171227T074552Z

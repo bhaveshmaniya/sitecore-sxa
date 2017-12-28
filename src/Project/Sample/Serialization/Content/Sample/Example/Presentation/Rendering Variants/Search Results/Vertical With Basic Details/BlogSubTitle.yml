@@ -1,0 +1,18 @@
+﻿---
+ID: "5f6ce3ca-e9f2-4b23-8d56-3d50a1ff8a8e"
+Parent: "8df8ed51-0556-4213-8cb8-3528ecd78ec8"
+Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
+Path: /sitecore/content/Sample/Example/Presentation/Rendering Variants/Search Results/Vertical With Basic Details/BlogSubTitle
+DB: master
+SharedFields:
+- ID: "4753764c-c05a-4623-841b-97f85135241c"
+  Hint: FieldName
+  Value: BlogSubTitle
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171228T121440Z

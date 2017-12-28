@@ -1,0 +1,15 @@
+﻿---
+ID: "f6125b87-77b2-4244-a3b2-43cf9b644fc7"
+Parent: "f3bf65c3-5358-4c70-a5e5-aea951b4e30b"
+Template: "f1c4144c-1b74-4916-a918-41cd68f3980f"
+Path: /sitecore/content/Sample/Example/Data/Search/Search Results
+DB: master
+BranchID: "957565a0-bf0d-4f8b-bf2c-4a8f40ec9080"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171227T074642Z

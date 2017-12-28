@@ -1,0 +1,14 @@
+﻿---
+ID: "78af857f-8dcf-494c-9c61-7c871deb0949"
+Parent: "179085f5-bdae-4208-940c-f889fa6603f2"
+Template: "9c2d0fdf-4daf-4494-bde7-f857f1924825"
+Path: /sitecore/content/Sample/Example/Data/Navigation Filters
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171227T074558Z

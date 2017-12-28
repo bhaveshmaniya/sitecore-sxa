@@ -1,0 +1,19 @@
+﻿---
+ID: "9525da4a-40be-403c-9af3-7a8fa1c3e4bc"
+Parent: "47d37868-3acf-4f10-a3ab-d9b1055ea33e"
+Template: "47d37868-3acf-4f10-a3ab-d9b1055ea33e"
+Path: /sitecore/templates/Project/Sample/Blog/__Standard Values
+DB: master
+SharedFields:
+- ID: "c9283d9e-7c29-4419-9c28-5a5c8ff53e84"
+  Hint: __Bucketable
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171207T093033Z

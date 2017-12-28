@@ -1,0 +1,15 @@
+﻿---
+ID: "b75ad58a-0ba1-48ed-9346-0a641218e9c5"
+Parent: "7c4698c2-7904-47ee-a729-db00ebf0fa9c"
+Template: "b14bab5b-8965-466b-886b-1f93175bcab3"
+Path: /sitecore/content/Sample/Example/Settings/Social Media Groups
+DB: master
+BranchID: "4ddbdd69-8a15-4520-bed8-f7553139586b"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171227T074630Z

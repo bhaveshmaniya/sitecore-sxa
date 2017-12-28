@@ -1,0 +1,15 @@
+﻿---
+ID: "594089a8-6349-4c6e-aa4e-c9f57c7cb56e"
+Parent: "22db2ee4-11d2-419f-9c19-c7eb39aa2760"
+Template: "fb3e3034-33f8-4ce8-be98-dd05010f4c22"
+Path: /sitecore/content/Sample/Example/Presentation/Rendering Variants/Promo/Default
+DB: master
+BranchID: "a19fc87d-262d-42cf-b595-41b4262733f4"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171227T074607Z

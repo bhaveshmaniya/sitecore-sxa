@@ -1,0 +1,18 @@
+﻿---
+ID: "d0f6d1fe-eab0-440a-b9af-b79fd1ec866e"
+Parent: "71552cc8-b2c1-41ee-8ba6-171a9958cabb"
+Template: "0339bac0-78c1-43c1-b930-f8c26a5fdf80"
+Path: /sitecore/content/Sample/Example/Presentation/Placeholder Settings
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171227T074512Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

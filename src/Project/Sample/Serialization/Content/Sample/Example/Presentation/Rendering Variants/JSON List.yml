@@ -1,0 +1,23 @@
+﻿---
+ID: "80651cde-f7c3-48b1-9db9-2dc15b587c25"
+Parent: "f27b9318-284f-4a2f-b5e3-35b2ac3400b0"
+Template: "4c1dc3cf-36d2-4484-ba4e-40af34d01e95"
+Path: /sitecore/content/Sample/Example/Presentation/Rendering Variants/JSON List
+DB: master
+BranchID: "08c12327-7685-4c17-bfca-6aae7a55f4c5"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/document_gear.png
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171227T074545Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

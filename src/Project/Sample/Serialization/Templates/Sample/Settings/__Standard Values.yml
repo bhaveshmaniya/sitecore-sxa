@@ -1,0 +1,14 @@
+﻿---
+ID: "a7b9d55f-03de-4ad6-a543-03824c7dc181"
+Parent: "7db91ac0-200e-4794-a61d-5ce3e3f38f0e"
+Template: "7db91ac0-200e-4794-a61d-5ce3e3f38f0e"
+Path: /sitecore/templates/Project/Sample/Settings/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171227T074120Z

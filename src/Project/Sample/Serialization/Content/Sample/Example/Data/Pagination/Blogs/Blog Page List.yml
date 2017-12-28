@@ -1,0 +1,18 @@
+﻿---
+ID: "026d69f6-46c8-44e0-a12f-911faca2a6a4"
+Parent: "b2b8a7d7-5690-4b93-9b53-9ec21d150b8b"
+Template: "458a37ba-8222-4182-86e5-e086cfcdad5c"
+Path: /sitecore/content/Sample/Example/Data/Pagination/Blogs/Blog Page List
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171228T102926Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

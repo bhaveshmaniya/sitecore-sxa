@@ -1,0 +1,17 @@
+﻿---
+ID: "b5ac0372-5c10-4eab-9fb3-6cd1fcaaf4b2"
+Parent: "36085c92-4621-4cad-9f10-cd394ddb6654"
+Template: "6b40e84c-8785-49fc-8a10-6bca862ff7ea"
+Path: /sitecore/content/Sample/Example/Data/Tags/Blog Categories/Cloud Computing
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171227T141258Z
+    - ID: "b8a8b6c9-4757-496b-9aae-5f46ff381563"
+      Hint: Title
+      Value: Cloud Computing

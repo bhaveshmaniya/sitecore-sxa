@@ -1,0 +1,26 @@
+﻿---
+ID: "a4910646-3a60-4ecc-a5d9-d68825aae438"
+Parent: "71552cc8-b2c1-41ee-8ba6-171a9958cabb"
+Template: "ee01357f-bad7-4040-b51a-daa64d5118ee"
+Path: /sitecore/content/Sample/Example/Presentation/Page Designs
+DB: master
+BranchID: "b90549b5-c997-4d6b-b102-c9ab82528974"
+SharedFields:
+- ID: "c0c88e34-d7e6-46a0-b84f-b0a432d11642"
+  Hint: Theme
+  Value: "%7bFE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3%7d%3d%257B3F46272C-F3B8-4913-8C00-3816B436A4D3%257D"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171227T074446Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "ba1f60d6-3deb-40cc-bb61-eec772279ee1"
+      Hint: TemplatesMapping
+      Value: "%7b72FA2F99-F1D6-4EED-9DE4-E5527D107171%7d%3d%257B0928AC81-8AC9-4412-BE06-C9526C57F772%257D%26%7bAC0A79B9-40BE-41E3-B6DE-08E7A82734B6%7d%3d%257B0928AC81-8AC9-4412-BE06-C9526C57F772%257D%26%7b47D37868-3ACF-4F10-A3AB-D9B1055EA33E%7d%3d%257BDDA879C8-2BA5-4CFB-AD3E-8F5369CE5589%257D"

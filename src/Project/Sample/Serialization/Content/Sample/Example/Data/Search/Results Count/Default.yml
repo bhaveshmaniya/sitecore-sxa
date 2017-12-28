@@ -1,0 +1,15 @@
+﻿---
+ID: "8ec5bc85-de7e-4f89-8c26-0a833bc9882f"
+Parent: "dc0cfe0c-9fe1-4a41-8b5d-c66f719c680d"
+Template: "f3c0661e-f9a9-444c-a26d-44bf2a68a186"
+Path: /sitecore/content/Sample/Example/Data/Search/Results Count/Default
+DB: master
+BranchID: "957565a0-bf0d-4f8b-bf2c-4a8f40ec9080"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171227T074642Z

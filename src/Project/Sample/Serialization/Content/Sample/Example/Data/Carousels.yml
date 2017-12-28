@@ -1,0 +1,14 @@
+﻿---
+ID: "a3ba81fc-375d-4e09-9033-03d2d3f27782"
+Parent: "179085f5-bdae-4208-940c-f889fa6603f2"
+Template: "a13a1b91-fd2b-494b-9086-008852175b0a"
+Path: /sitecore/content/Sample/Example/Data/Carousels
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171227T074532Z

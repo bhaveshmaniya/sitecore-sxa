@@ -1,0 +1,51 @@
+﻿---
+ID: "0cba0807-2483-491c-8611-809d3ab5ee8d"
+Parent: "da1d0cbc-fe65-40a4-9998-9bbf8b56ae10"
+Template: "47d37868-3acf-4f10-a3ab-d9b1055ea33e"
+Path: "/sitecore/content/Sample/Example/Home/blogs/2017/12/28/09/56/cloud-computing"
+DB: master
+SharedFields:
+- ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
+  Hint: SxaTags
+  Value: "{B5AC0372-5C10-4EAB-9FB3-6CD1FCAAF4B2}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Cloud computing
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0ecfd2b9-0224-4f6d-8ab7-e6699600bb02"
+      Hint: Content
+      Value: |
+        <p style="color: #222222; background-color: #ffffff; margin: 0.5em 0px;">Third-party clouds enable organizations to focus on their&nbsp;<a href="https://en.wikipedia.org/wiki/Core_business" title="Core business" style="color: #0b0080; background: none;">core businesses</a>&nbsp;instead of expending resources on computer infrastructure and maintenance.<sup id="cite_ref-aws.amazon_1-0" class="reference"><a href="https://en.wikipedia.org/wiki/Cloud_computing#cite_note-aws.amazon-1" style="color: #0b0080; background: none;">[1]</a></sup>&nbsp;Advocates note that cloud computing allows companies to avoid or minimize up-front&nbsp;<a href="https://en.wikipedia.org/wiki/IT_infrastructure" title="IT infrastructure" style="color: #0b0080; background: none;">IT infrastructure</a>&nbsp;costs. Proponents also claim that cloud computing allows enterprises to get their applications up and running faster, with improved manageability and less maintenance, and that it enables IT&nbsp;<a href="https://en.wikipedia.org/wiki/Team" title="Team" style="color: #0b0080; background: none;">teams</a>&nbsp;to more rapidly adjust resources to meet fluctuating and unpredictable&nbsp;<a href="https://en.wikipedia.org/wiki/Market_(economics)" title="Market (economics)" style="color: #0b0080; background: none;">business</a>&nbsp;demand.<sup id="cite_ref-aws.amazon_1-1" class="reference"><a href="https://en.wikipedia.org/wiki/Cloud_computing#cite_note-aws.amazon-1" style="color: #0b0080; background: none;">[1]</a></sup><sup id="cite_ref-2" class="reference"><a href="https://en.wikipedia.org/wiki/Cloud_computing#cite_note-2" style="color: #0b0080; background: none;">[2]</a></sup><sup id="cite_ref-3" class="reference"><a href="https://en.wikipedia.org/wiki/Cloud_computing#cite_note-3" style="color: #0b0080; background: none;">[3]</a></sup>&nbsp;Cloud providers typically use a "pay-as-you-go" model, which can lead to unexpected&nbsp;<a href="https://en.wikipedia.org/wiki/Operating_expense" title="Operating expense" style="color: #0b0080; background: none;">operating expenses</a>&nbsp;if administrators are not familiarized with cloud-pricing models.<sup id="cite_ref-4" class="reference"><a href="https://en.wikipedia.org/wiki/Cloud_computing#cite_note-4" style="color: #0b0080; background: none;">[4]</a></sup></p>
+        <p style="color: #222222; background-color: #ffffff; margin: 0.5em 0px;">Since the launch of&nbsp;<a href="https://en.wikipedia.org/wiki/Amazon_Elastic_Compute_Cloud" title="Amazon Elastic Compute Cloud" style="color: #0b0080; background: none;">Amazon EC2</a>&nbsp;in 2006, the availability of high-capacity networks, low-cost computers and storage devices as well as the widespread adoption of&nbsp;<a href="https://en.wikipedia.org/wiki/Hardware_virtualization" title="Hardware virtualization" style="color: #0b0080; background: none;">hardware virtualization</a>,&nbsp;<a href="https://en.wikipedia.org/wiki/Service-oriented_architecture" title="Service-oriented architecture" style="color: #0b0080; background: none;">service-oriented architecture</a>, and&nbsp;<a href="https://en.wikipedia.org/wiki/Autonomic_computing" title="Autonomic computing" style="color: #0b0080; background: none;">autonomic</a>&nbsp;and&nbsp;<a href="https://en.wikipedia.org/wiki/Utility_computing" title="Utility computing" style="color: #0b0080; background: none;">utility computing</a>&nbsp;has led to growth in cloud computing.<sup id="cite_ref-5" class="reference"><a href="https://en.wikipedia.org/wiki/Cloud_computing#cite_note-5" style="color: #0b0080; background: none;">[5]</a></sup><sup id="cite_ref-gartner_6-0" class="reference"><a href="https://en.wikipedia.org/wiki/Cloud_computing#cite_note-gartner-6" style="color: #0b0080; background: none;">[6]</a></sup><sup id="cite_ref-really_7-0" class="reference"><a href="https://en.wikipedia.org/wiki/Cloud_computing#cite_note-really-7" style="color: #0b0080; background: none;">[7]</a></sup></p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171228T095617Z
+    - ID: "3e30e935-6e59-4e7f-a2ac-8beeae9a65ce"
+      Hint: Title
+      Value: Cloud computing
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Cloud computing
+    - ID: "519e90b4-92c8-4908-b1e2-8bd1e6dd1d07"
+      Hint: BlogPublishedDate
+      Value: 20171201T183000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "698eb960-de52-40db-8961-8289629fae60"
+      Hint: BlogImage
+      Value: |
+        <image mediaid="{65875AD0-9FC4-4644-8299-F6B7CE7F6A6F}" />
+    - ID: "84e7ac23-162f-4933-ab8e-0d63475df1c2"
+      Hint: BlogAuther
+      Value: ABC
+    - ID: "c2884418-3380-49ef-89dd-163d07ab3e1b"
+      Hint: BlogSubTitle
+      Value: |
+        <strong style="color: #222222; background-color: #ffffff;">Cloud computing</strong><span style="background-color: #ffffff; color: #222222;">&nbsp;is an&nbsp;</span><a href="https://en.wikipedia.org/wiki/Information_technology" title="Information technology" style="color: #0b0080; background: none #ffffff;">information technology</a><span style="background-color: #ffffff; color: #222222;">&nbsp;(IT) paradigm that enables ubiquitous access to shared pools of configurable&nbsp;</span><a href="https://en.wikipedia.org/wiki/System_resource" title="System resource" style="color: #0b0080; background: none #ffffff;">system resources</a><span style="background-color: #ffffff; color: #222222;">&nbsp;and higher-level services that can be rapidly&nbsp;</span><a href="https://en.wikipedia.org/wiki/Provisioning" title="Provisioning" style="color: #0b0080; background: none #ffffff;">provisioned</a><span style="background-color: #ffffff; color: #222222;">&nbsp;with minimal management effort, often over the&nbsp;</span><a href="https://en.wikipedia.org/wiki/Internet" title="Internet" style="color: #0b0080; background: none #ffffff;">Internet</a><span style="background-color: #ffffff; color: #222222;">. Cloud computing relies on sharing of resources to achieve coherence and&nbsp;</span><a href="https://en.wikipedia.org/wiki/Economies_of_scale" title="Economies of scale" style="color: #0b0080; background: none #ffffff;">economy of scale</a><span style="background-color: #ffffff; color: #222222;">, similar to a&nbsp;</span><a href="https://en.wikipedia.org/wiki/Public_utility" title="Public utility" style="color: #0b0080; background: none #ffffff;">utility</a><span style="background-color: #ffffff; color: #222222;">.</span>

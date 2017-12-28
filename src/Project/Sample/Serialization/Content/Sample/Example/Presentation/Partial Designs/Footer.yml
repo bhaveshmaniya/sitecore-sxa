@@ -1,0 +1,56 @@
+﻿---
+ID: "10245b85-cf5a-4a92-9ed7-83e1307cb1d8"
+Parent: "dd291772-0e06-4f71-9ea4-c7238565aeb4"
+Template: "453ee8e3-1b43-454e-863c-d597173ac612"
+Path: /sitecore/content/Sample/Example/Presentation/Partial Designs/Footer
+DB: master
+SharedFields:
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: footer
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{ECAD8A19-28B2-40C4-9857-0D9E42833C9F}"
+              p:before="*"
+              s:ds="{3FF0B9C2-7DA7-42F9-894D-308002ED26C6}"
+              s:id="{87182F78-4399-4896-8D59-9D6A45282F8A}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}&amp;FieldNames&amp;Styles"
+              s:ph="/footer/row-2-1" />
+            <r
+              uid="{347EED48-9449-4461-9343-82C2D1F005ED}"
+              p:after="r[@uid='{ECAD8A19-28B2-40C4-9857-0D9E42833C9F}']"
+              s:ds="{F232676E-A9FD-4AE3-9DAB-46C880BB8949}"
+              s:id="{87182F78-4399-4896-8D59-9D6A45282F8A}"
+              s:par="GridParameters={113BEF7C-97E6-46CA-8CF3-916F7FAA8DE2}&amp;FieldNames&amp;Styles"
+              s:ph="/footer/row-1-1" />
+            <r
+              uid="{A423A895-39F0-4D0E-A48E-243B1A6E55AF}"
+              p:after="*[1=2]"
+              s:id="{2DA9B139-FB9C-4FD7-BE84-CB066B2D7CC3}"
+              s:par="SplitterSize=2&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles8&amp;DynamicPlaceholderId=1"
+              s:ph="footer" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171227T132934Z
+    - ID: "4c2f221f-9426-45ed-9eeb-c79bb3169565"
+      Hint: StickyNotes
+      Value: |
+        {"items":[]}
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

@@ -1,0 +1,14 @@
+﻿---
+ID: "962b48ed-81ff-47e5-adc4-8067dac812fb"
+Parent: "179085f5-bdae-4208-940c-f889fa6603f2"
+Template: "ed1b1ba7-4267-466f-a57a-8d96d2cb979d"
+Path: /sitecore/content/Sample/Example/Data/IFrames
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171227T074610Z

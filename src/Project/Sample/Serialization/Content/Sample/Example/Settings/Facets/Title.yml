@@ -1,0 +1,22 @@
+﻿---
+ID: "64597338-cc60-4567-8366-ff6fa9d0699b"
+Parent: "80955797-d094-460a-a782-08d83b8f2f09"
+Template: "6042e216-f650-447c-86d1-00fea97454e7"
+Path: /sitecore/content/Sample/Example/Settings/Facets/Title
+DB: master
+BranchID: "110e35f3-fb41-4bec-bcb3-02b7a9cebb15"
+SharedFields:
+- ID: "0e23bb51-c071-41b5-9d83-ac410b89b85a"
+  Hint: Parameters
+  Value: title
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171227T074617Z
+    - ID: "31ca077f-ef38-4980-8a24-05408031b2bc"
+      Hint: Name
+      Value: Title

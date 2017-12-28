@@ -1,0 +1,14 @@
+﻿---
+ID: "42498730-df19-41ce-987f-6707adb35313"
+Parent: "7c4698c2-7904-47ee-a729-db00ebf0fa9c"
+Template: "44936c95-bca9-4fb3-9d98-2066a5fbbb4d"
+Path: /sitecore/content/Sample/Example/Settings/Scopes
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171227T074620Z

@@ -1,0 +1,14 @@
+﻿---
+ID: "583b6a30-5de8-4a60-81f5-1639bc59bd48"
+Parent: "f2a6d0ec-abcc-48e8-ba0c-69d9591bbb0f"
+Template: "fb3e3034-33f8-4ce8-be98-dd05010f4c22"
+Path: /sitecore/content/Sample/Example/Presentation/Rendering Variants/Page Content/Title N SubTitle
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171227T135839Z

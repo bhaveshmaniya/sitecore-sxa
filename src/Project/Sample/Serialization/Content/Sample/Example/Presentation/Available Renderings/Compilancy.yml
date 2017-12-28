@@ -1,0 +1,24 @@
+﻿---
+ID: "577f7210-4e80-4130-ad42-f377ce916382"
+Parent: "c0004863-ca82-40f5-8015-c9291f3d534f"
+Template: "bf70a40b-6d0e-4639-9862-24bb8946094b"
+Path: /sitecore/content/Sample/Example/Presentation/Available Renderings/Compilancy
+DB: master
+BranchID: "1054b140-a786-42d7-b19a-af341ca2de2a"
+SharedFields:
+- ID: "715ae6c0-71c8-4744-ab4f-65362d20ad65"
+  Hint: Renderings
+  Type: TreelistEx
+  Value: "{3A91FC31-BA4C-4BC7-B6E4-29B4BB768736}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171227T074530Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

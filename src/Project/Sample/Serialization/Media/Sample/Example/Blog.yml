@@ -1,0 +1,18 @@
+﻿---
+ID: "8e2ffd9f-8e34-449d-8713-500dc8ee54a3"
+Parent: "247e0906-5666-43c2-9208-a0e7f4d96794"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Project/Sample/Example/Blog
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171207T090840Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

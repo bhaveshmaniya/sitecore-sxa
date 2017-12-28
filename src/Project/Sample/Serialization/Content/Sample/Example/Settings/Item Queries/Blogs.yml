@@ -1,0 +1,22 @@
+﻿---
+ID: "b10933f3-780a-4377-b676-e396d20adfff"
+Parent: "8baed27d-c2f1-4764-9ef1-f632b4a00b02"
+Template: "e379ca4e-ec5d-4001-9489-c0a7ceca4c94"
+Path: /sitecore/content/Sample/Example/Settings/Item Queries/Blogs
+DB: master
+SharedFields:
+- ID: "e9657877-584c-4ccf-8300-dc9246c8c80b"
+  Hint: Query
+  Value: "location:{43C5B3B4-E36E-4203-8F40-A46663910AD0};+template:{47D37868-3ACF-4F10-A3AB-D9B1055EA33E}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171227T143424Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

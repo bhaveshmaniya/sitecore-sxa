@@ -1,0 +1,19 @@
+﻿---
+ID: "c74e581e-1a2d-4538-a552-98cead76e718"
+Parent: "133b0dc1-948c-4c16-8967-5a00244bcbb9"
+Template: "fb3e3034-33f8-4ce8-be98-dd05010f4c22"
+Path: /sitecore/content/Sample/Example/Presentation/Rendering Variants/File List/All Fields
+DB: master
+BranchID: "83becf6f-0518-4128-a395-8906981b7cb1"
+SharedFields:
+- ID: "90294353-706a-431c-b855-cd245824d9fa"
+  Hint: LinkField
+  Value: File
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171227T074551Z
